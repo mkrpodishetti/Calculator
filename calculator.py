@@ -12,5 +12,8 @@ elif z=='/':
     print('Division of two numbers :',x/y)
 
 
+def function():
+    pass
+
 
  
